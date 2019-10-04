@@ -8,7 +8,7 @@ Sample project allowing to get started with .NET Core. Was generated using the .
 dotnet run --project DotNetCoreSampleApi
 ```
 
-## Test the API
+## Test the API ddd
 
 ```
 dotnet test DotNetCoreSampleApi.Tests
