@@ -14,7 +14,7 @@ namespace DotNetCoreSampleApi.Tests
 
             var values = controller.Get().ToList(); // retrieves values as a list of string
 
-            Assert.IsTrue(values.Contains("value1"), "value1 is not returned");
+            Assert.IsTrue(values.Contains("value1"), "value1 is not returned 1");
             Assert.IsTrue(values.Contains("value2"), "value2 is not returned");
         }
     }
